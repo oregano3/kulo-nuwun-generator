@@ -1,3 +1,3 @@
 # kulo-nuwun-generator
 
-a
+ab
