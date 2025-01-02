@@ -1,5 +1,7 @@
 # kulo-nuwun-generator
 
-abcde
-abcdefg
-ab
+kulo nuwun
+sinten?
+kulo
+kulo sinten?
+kulo nuwun
